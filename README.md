@@ -36,6 +36,7 @@ HTML5
 CSS3
 JavaScript (Vanilla)
 Capturas de Pantalla
+
 Pantalla Inicial:
 ![image](https://github.com/user-attachments/assets/b9ea5b9b-651f-48d6-a49a-1ca8027b5dd9)
 
