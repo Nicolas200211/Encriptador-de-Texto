@@ -39,8 +39,8 @@ Capturas de Pantalla
 Pantalla Inicial:
 
 ![image](https://github.com/user-attachments/assets/b9ea5b9b-651f-48d6-a49a-1ca8027b5dd9)
-Texto Encriptado:
 
+Texto Encriptado:
 ![image](https://github.com/user-attachments/assets/153ced5c-807a-476f-8e09-cea63ad66e47)
 
 Contribución
